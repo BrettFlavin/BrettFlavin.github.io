@@ -1,0 +1,4 @@
+[0611/094339.038:ERROR:viz_main_impl.cc(170)] Exiting GPU process due to errors during initialization
+[0611/094339.062:WARNING:gpu_process_host.cc(1205)] The GPU process has crashed 1 time(s)
+[0611/094339.324:ERROR:viz_main_impl.cc(170)] Exiting GPU process due to errors during initialization
+[0611/094339.334:WARNING:gpu_process_host.cc(1205)] The GPU process has crashed 2 time(s)
