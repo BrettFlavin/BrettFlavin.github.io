@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://brettflavin.github.io">
-    <img src="https://github.com/BrettFlavin/BrettFlavin.github.io/blob/master/screenshot.PNG" alt="screenshot">
+    <img src="https://github.com/BrettFlavin/BrettFlavin.github.io/blob/master/screen1.PNG" alt="screenshot">
   </a> 
 </p>
 
